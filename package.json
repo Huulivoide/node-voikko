@@ -1,0 +1,26 @@
+{
+  "name": "node-voikko",
+  "version": "1.0.0",
+  "description": "Libvoikko bindings for NodeJS",
+  "main": "voikko.js",
+  "gypfile": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "c",
+    "c++",
+    "voikko",
+    "spell",
+    "check",
+    "checker",
+    "checking",
+    "finnish"
+  ],
+  "author": "Jesse Jaara",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "bindings": "^1.2.1",
+    "nan": "^2.4.0"
+  }
+}
